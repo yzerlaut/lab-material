@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 2481 3508"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;"
+   id="svg10"
+   sodipodi:docname="Template.svg"
+   inkscape:version="1.3.1 (91b66b0, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs10" /><sodipodi:namedview
+   id="namedview10"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.35380017"
+   inkscape:cx="1054.2675"
+   inkscape:cy="891.74633"
+   inkscape:window-width="1312"
+   inkscape:window-height="704"
+   inkscape:window-x="0"
+   inkscape:window-y="38"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="g12" />
+    <g
+   transform="matrix(0.362776,0,0,1.42917,1109.67,-1857.24)"
+   id="g1">
+        <path
+   d="M239.364,1821.67L344.466,1821.63"
+   style="fill:none;stroke:black;stroke-width:2px;"
+   id="path1" />
+    </g>
+    <g
+   transform="matrix(2.22136e-17,-0.362776,1.42917,8.75116e-17,-1412.92,818.223)"
+   id="g2">
+        <path
+   d="M239.364,1821.67L344.466,1821.63"
+   style="fill:none;stroke:black;stroke-width:2px;"
+   id="path2" />
+    </g>
+    <g
+   transform="matrix(1,0,0,1,1042.3,-1087.34)"
+   id="g3">
+        <text
+   x="145.302px"
+   y="1864.24px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:25px;"
+   id="text2">25ms</text>
+    </g>
+    <g
+   transform="matrix(1,0,0,1,970.475,-1155.39)"
+   id="g4">
+        <text
+   x="168.91px"
+   y="1864.24px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:25px;"
+   id="text3">6pt</text>
+        <text
+   x="145.302px"
+   y="1890.06px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:25px;"
+   id="text4">scale</text>
+    </g>
+    <g
+   transform="translate(71.635162,-261.242)"
+   id="g5">
+        <text
+   x="434.74301"
+   y="907.36499"
+   style="font-size:37.5px;font-family:ArialMT, Arial, sans-serif"
+   id="text5">9pt fontsize</text>
+    </g>
+    <g
+   transform="translate(71.84066,-153.00906)"
+   id="g6">
+        <text
+   x="434.74301"
+   y="907.36499"
+   style="font-size:33.333px;font-family:ArialMT, Arial, sans-serif"
+   id="text6">8pt fontsize</text>
+    </g>
+    <g
+   transform="translate(71.810114,-48.637195)"
+   id="g7">
+        <text
+   x="434.74301"
+   y="907.36499"
+   style="font-size:29.167px;font-family:ArialMT, Arial, sans-serif"
+   id="text7">7pt fontsize</text>
+    </g>
+    <g
+   transform="matrix(0.75,0,0,0.75,180.246,184.519)"
+   id="g8">
+        <text
+   x="880.974px"
+   y="129.368px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:133.333px;"
+   id="text8">Figure template</text>
+    </g>
+    <g
+   transform="matrix(0.75,0,0,0.75,1074.14,452.385)"
+   id="g9">
+        <text
+   x="660.703px"
+   y="159.403px"
+   style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:55.556px;"
+   id="text9">B</text>
+    </g>
+    <g
+   transform="matrix(0.75,0,0,0.75,-88.3511,452.385)"
+   id="g10">
+        <text
+   x="660.703px"
+   y="159.403px"
+   style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:55.556px;"
+   id="text10">A</text>
+    </g>
+<g
+   transform="translate(381.42102,-905.00193)"
+   id="g12">
+        <text
+   x="125.57361"
+   y="1864.24"
+   style="font-size:25px;font-family:ArialMT, Arial, sans-serif"
+   id="text11">6pt fontsize</text>
+        
+    </g></svg>
