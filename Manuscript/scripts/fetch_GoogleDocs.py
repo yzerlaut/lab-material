@@ -25,7 +25,6 @@ def save_response_content(response, destination):
 def main(args):
 
     URL = 'https://www.googleapis.com/drive/v3/files/{file_id}/export?mimeType={format}&key={key}&alt=media'.format(**{'file_id':args.doc_id,
-
                                                                                                            'format':eType[args.format].replace('/','%2F'),
                                                                                                                     'key':args.API_key})
     session = requests.Session()
