@@ -4,12 +4,9 @@ Some common material and setup instructions for the team
 
 ## System Setup
 
+Links to the instructions (depending on your operating system):
 
-| --- | --- | --- |
-|     | System |   |
-| --- | --- | --- |
 | [Linux](./Setup/Linux.md) | [OS X](./Setup/OSX.md) | [Windows](./Setup/Windows.md) |
-| --- | --- | --- |
 
 ## Network
 
