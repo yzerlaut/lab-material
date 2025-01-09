@@ -1,13 +1,13 @@
 # Setup Instructions for OSX
 
-## 1) Install the command-line tools for OSX
+## 1) Install the command-line tools
 
 Open a terminal:
 ```
 xcode-select --install
 ```
 
-## 2) Install `homebrew` (a package manager for OSX)
+## 2) Install `homebrew` (a package manager)
 
 Follow the instructions at [https://brew.sh/](https://brew.sh/), currently:
 ```
