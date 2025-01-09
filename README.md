@@ -1,6 +1,11 @@
-# lab-material
+# Laboratory Material & Workflows
 
-Some common material and setup instructions for the team
+A repository hosting some common material and the workflow instructions for the team.
+
+clone with:
+```
+git https://github.com/yzerlaut/lab-material
+```
 
 ## System Setup
 
