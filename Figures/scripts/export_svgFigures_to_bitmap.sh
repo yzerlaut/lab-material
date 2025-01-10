@@ -6,6 +6,9 @@
 ##            brew install magick               ###
 ###################################################
 
+# Set the desired bitmap resolution here:
+DPI=50
+
 mkdir -p ./tiffs
 mkdir -p ./pngs
 
@@ -24,6 +27,6 @@ esac
 
 for filename in ./*.svg; do
     echo "processing" $filename " [...]"
-    $inkscape --export-filename=./pngs/${filename/svg/png} --export-area-drawing $filename
+    $inkscape --export-filename=./pngs/${filename/svg/png} --export-area-drawing --export-dpi $DPI $filename
     magick ./pngs/${filename/svg/png} ./tiffs/${filename/svg/tiff} 
 done
